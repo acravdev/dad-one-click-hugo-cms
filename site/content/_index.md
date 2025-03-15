@@ -1,5 +1,5 @@
 ---
-title: "Economist. Climate resilience Advocate                    "
+title: "Economist. &#8203; &#8203; Climate resilience Advocate                    "
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
